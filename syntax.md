@@ -1,6 +1,6 @@
 # 基础语法
 
-源码文件：[syntax.perl](src/syntax.perl)
+源码文件：[syntax.pl](src/syntax.pl)
 
 Perl语句以`;`作为结束符。
 

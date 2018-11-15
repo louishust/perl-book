@@ -1,7 +1,5 @@
 # 内置操作符和函数
 
-
-
 ## Arithmetic
 
          +   addition

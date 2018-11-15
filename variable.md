@@ -1,6 +1,6 @@
 # 变量类型
 
-源码文件：[variable.perl](src/variable.perl)
+源码文件：[variable.pl](src/variable.pl)
 
 perl主要有三类变量类型: `scalars`, `arrays`和`hashes`.
 

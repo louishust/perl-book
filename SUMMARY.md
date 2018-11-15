@@ -5,6 +5,7 @@
 * [Hello World!](hello.md)
 * [基本语法](syntax.md)
 * [变量类型](variable.md)
+* [Reference](ref.md)
 * [控制结构](control_flow.md)
 * [内置操作符和函数](builtin.md)
 * [文件IO](fileio.md)

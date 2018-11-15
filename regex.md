@@ -1,6 +1,6 @@
 # 正则表达式
 
-源码文件：[regex.perl](src/regex.perl)
+源码文件：[regex.pl](src/regex.pl)
 
 ## 简单匹配
 

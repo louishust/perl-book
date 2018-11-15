@@ -1,6 +1,6 @@
 # Hello World
 
-源码文件：[hello_world.perl](src/hello_world.perl)
+源码文件：[hello_world.pl](src/hello_world.pl)
 
 ## Hello world
 

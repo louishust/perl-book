@@ -1,6 +1,6 @@
 # 文件IO操作
 
-源码文件：[fileio.perl](src/fileio.perl)
+源码文件：[fileio.pl](src/fileio.pl)
 
 ## 打开文件
 
