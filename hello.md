@@ -1,4 +1,12 @@
 # Hello World
+<!-- vim-markdown-toc GFM -->
+
+* [Hello world](#hello-world)
+* [运行程序](#运行程序)
+* [程序解释](#程序解释)
+* [快速入门](#快速入门)
+
+<!-- vim-markdown-toc -->
 
 源码文件：[hello_world.pl](src/hello_world.pl)
 

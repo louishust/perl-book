@@ -1,4 +1,12 @@
 # 文件IO操作
+<!-- vim-markdown-toc GFM -->
+
+* [打开文件](#打开文件)
+* [读取文件](#读取文件)
+* [写入文件](#写入文件)
+* [关闭文件](#关闭文件)
+
+<!-- vim-markdown-toc -->
 
 源码文件：[fileio.pl](src/fileio.pl)
 

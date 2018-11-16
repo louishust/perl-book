@@ -1,5 +1,11 @@
 # Reference
 
+<!-- vim-markdown-toc GFM -->
+
+* [定义引用](#定义引用)
+* [使用引用](#使用引用)
+
+<!-- vim-markdown-toc -->
 reference是一种特殊类型，也属于`scalar`类型, 类似于C中的`&`取地址。
 
 

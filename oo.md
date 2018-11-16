@@ -1,4 +1,10 @@
 # 面向对象
+<!-- vim-markdown-toc GFM -->
+
+* [Class](#class)
+* [new构造函数](#new构造函数)
+
+<!-- vim-markdown-toc -->
 
 源码文件：[oo.pl](src/oo.pl)
 

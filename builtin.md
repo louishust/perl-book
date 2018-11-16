@@ -1,4 +1,14 @@
 # 内置操作符和函数
+<!-- vim-markdown-toc GFM -->
+
+* [Arithmetic](#arithmetic)
+* [Numeric comparison](#numeric-comparison)
+* [String comparison](#string-comparison)
+* [Boolean logic](#boolean-logic)
+* [Miscellaneous](#miscellaneous)
+* [read more](#read-more)
+
+<!-- vim-markdown-toc -->
 
 ## Arithmetic
 

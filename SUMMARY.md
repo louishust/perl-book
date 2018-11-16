@@ -12,5 +12,5 @@
 * [正则表达式](regex.md)
 * [子程序](subroutine.md)
 * [面向对象编程](oo.md)
-* [模块使用](module.md)
+* [如何调试](debug.md)
 

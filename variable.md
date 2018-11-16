@@ -1,5 +1,14 @@
 # 变量类型
 
+<!-- vim-markdown-toc GFM -->
+
+* [Scalars](#scalars)
+* [Arrays](#arrays)
+* [Hashes](#hashes)
+* [Reference](#reference)
+* [变量作用域](#变量作用域)
+
+<!-- vim-markdown-toc -->
 源码文件：[variable.pl](src/variable.pl)
 
 perl主要有三类变量类型: `scalars`, `arrays`和`hashes`.

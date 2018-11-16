@@ -1,6 +1,14 @@
 # 子程序
+<!-- vim-markdown-toc GFM -->
 
-源码文件：[subroutine.pl](src/subroutine.pl)
+* [子程序](#子程序)
+* [more read](#more-read)
+
+<!-- vim-markdown-toc -->
+
+源码文件：[subroutine.pl](src/subroutine.perl)
+
+## 子程序
 
 子程序so easy:
 
@@ -40,5 +48,8 @@ sub square {
 $sq = square(8);
 ```
 
+## more read
 
-For more information: `perldoc perlsub`
+```bash
+$ perldoc perlsub
+```

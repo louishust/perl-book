@@ -1,4 +1,11 @@
 # 安装perl
+<!-- vim-markdown-toc GFM -->
+
+* [Linux](#linux)
+* [Mac](#mac)
+* [检查版本](#检查版本)
+
+<!-- vim-markdown-toc -->
 
 
 ## Linux

@@ -20,5 +20,6 @@ perl的基本语法，能够看懂perl程序。
 * [正则表达式](regex.md)
 * [子程序](subroutine.md)
 * [面向对象编程](oo.md)
+* [如何调试](debug.md)
 
 建议clone到本地后，使用`gitbook serve`进行浏览。
